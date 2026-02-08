@@ -4,7 +4,7 @@ Small idle/clicker game built with vanilla HTML/CSS/JS.
 Click to earn score, buy upgrades, and clear levels to earn trophies.
 
 ## Live Demo
-- GitHub Pages: https://zonnu.github.io/Zonnu-Idle-Clicker/
+- GitHub Pages: https://zonnu.github.io/zonnu-idle-clicker/
 
 ## Features
 - Click to gain score (click power)
