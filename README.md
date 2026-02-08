@@ -31,6 +31,5 @@ Click to earn score, buy upgrades, and clear levels to earn trophies.
 - Settings for offline gains cap
 
 ## Screenshots
-## Screenshots
 ![Main screen](screenshots/main.png)
 ![Shop](screenshots/victory.png)
